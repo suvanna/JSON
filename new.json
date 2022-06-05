@@ -1,0 +1,9 @@
+{
+    "first_name": "Анна",
+    "parent_name": "Юрьевна",
+    "last_name": "Суворова",
+    "age": 38,
+    "number_of_pets": 1,
+    "future_salary": 2000,
+    "salary_currency": "USD"
+}
